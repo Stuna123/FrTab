@@ -1,3 +1,3 @@
 Ce rep contient mes projets
 
-Le fichier et dossier Game sont liés
+Le fichier Game_oF.sln et dossier Game sont liés
